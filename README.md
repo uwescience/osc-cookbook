@@ -13,6 +13,7 @@ This cookbook is collaboratively authored by members of the University of Washin
 ### Desserts
 
 ### Drinks
+- [Water](Drinks/water.md)
 
 ## Edition history
 
