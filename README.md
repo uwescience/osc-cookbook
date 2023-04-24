@@ -11,6 +11,7 @@ This cookbook is collaboratively authored by members of the University of Washin
 ### Entrées
 
 ### Desserts
+- [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 
 ### Drinks
 - [Water](Drinks/water.md)
