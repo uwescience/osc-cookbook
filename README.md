@@ -12,6 +12,7 @@ This cookbook is collaboratively authored by members of the University of Washin
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
+- [Brownies](Desserts/brownies.md)
 
 ### Drinks
 - [Water](Drinks/water.md)
