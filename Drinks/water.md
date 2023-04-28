@@ -2,7 +2,7 @@
 
 ## Ingredients 
 
-- 8oz water
+- 12oz water
 
 ## Recipe
 
