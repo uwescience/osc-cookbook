@@ -1,6 +1,8 @@
 # Belgian Sugar Waffles
 
-*This is my grandmother's recipe and I have fond memories of eating these waffles. I will spare you the details, however, and get straight to the recipe!*
+Recipe courtesy of [Valerie Bentivenga](https://github.com/ValerieBenti):
+
+> *This is my grandmother's recipe and I have fond memories of eating these waffles. I will spare you the details, however, and get straight to the recipe!*
 
 ## Ingredients (for a lot of waffles)
 
