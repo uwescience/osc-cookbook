@@ -13,6 +13,7 @@ This cookbook is collaboratively authored by members of the University of Washin
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
 - [Belgian Sugar Waffels](Desserts/WaffleRecipe_md-git-class.md)
+- [New-Fashioned Chocolate Chip Cookies With All Tahini & No Butter](Desserts/New-Fashioned-Chocolate-Chip-Cookies.md)
 
 ### Drinks
 - [Water](Drinks/water.md)
@@ -20,4 +21,6 @@ This cookbook is collaboratively authored by members of the University of Washin
 ## Edition history
 
 1. April 28th, 2023. Authors:
-	- Naomi Alterman (naomila@uw.edu)
+	- Valerie Bentivegna
+	- David Kreiss-Tomkins
+	- Naomi Alterman
