@@ -12,6 +12,7 @@ This cookbook is collaboratively authored by members of the University of Washin
 
 ### Desserts
 - [Oatmeal Butterscotch Cookies](Desserts/oatmeal-butterscotch-cookies.md)
+- [Belgian Sugar Waffels](Desserts/WaffleRecipe_md-git-class.md)
 
 ### Drinks
 - [Water](Drinks/water.md)
